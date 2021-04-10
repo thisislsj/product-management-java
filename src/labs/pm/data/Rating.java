@@ -22,4 +22,10 @@ public enum Rating {
         this.stars = stars;
     }
 
+    public String getStars() {
+        return stars;
+    }
+    
+    
+
 }
