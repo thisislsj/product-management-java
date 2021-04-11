@@ -25,7 +25,5 @@ public enum Rating {
     public String getStars() {
         return stars;
     }
-    
-    
 
 }
